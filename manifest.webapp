@@ -1,7 +1,7 @@
 {
   "name": "ActivityTracker",
   "description": "Tieni traccia di tutte le tue attività!",
-  "launch_path": "/app.html",
+  "launch_path": "https://github.com/redsnic/ActivityTracker/blob/master/app.html",
   "icons": {
     "128": "/images/app_icn_128.png",
     "60": "/images/app_icn_60.png"
