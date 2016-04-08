@@ -1,0 +1,13 @@
+{
+  "name": "Activity-Tracker",
+  "version": "0.1",
+  "description": "Activity for Firefox OS",
+  "keywords": [
+    "firefox",
+    "firefox os",
+    "Tracker",
+    "css",
+    "framework"
+  ],
+  "license": "apache"
+}
