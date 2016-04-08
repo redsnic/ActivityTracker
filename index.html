@@ -5,7 +5,7 @@
   <title>ActivityTracker</title>
   <script>
 //TODO AGGIORNAMENTI
-      var request = window.navigator.mozApps.installPackage('');
+      var request = window.navigator.mozApps.installPackage('http://redsnic.github.io/ActivityTracker/package/package.manifest');
 request.onsuccess = function () {
   // Save the App object that is returned
   var appRecord = this.result;
