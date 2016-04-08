@@ -1,6 +1,6 @@
 {
     "name": "ActivityTracker",
-    "package_path" : "http://my-server.com/my-app-directory/package.zip",
+    "package_path" : "http://redsnic.github.io/ActivityTracker/package/Package.zip",
     "version": "1.0",
     "developer": {
     "name": "Nicolò Rossi",
