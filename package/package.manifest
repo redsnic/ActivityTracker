@@ -3,10 +3,6 @@
     "package_path" : "http://my-server.com/my-app-directory/package.zip",
     "version": "1.0",
     "developer": {
-        "name": "A. Developer",
-        "url": "http://my-server.com"
-    }
-    "developer": {
     "name": "Nicolò Rossi",
     "url": "http://www.redsnic.altervista.org"
   },
