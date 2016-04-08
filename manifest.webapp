@@ -3,8 +3,8 @@
   "description": "Tieni traccia di tutte le tue attività!",
   "launch_path": "app.html",
   "icons": {
-    "128": 'http://redsnic.github.io/ActivityTracker/images/app_icn_128.png',
-    "60": 'http://redsnic.github.io/ActivityTracker/images/app_icn_60.png'
+    "128": "/images/app_icn_128.png",
+    "60": "/images/app_icn_60.png"
   },
   "version": "0.1",
    "permissions": {
