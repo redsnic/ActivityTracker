@@ -1,17 +1,13 @@
 {
-  "name": "ActivityTracker",
-  "version": "1.0",
-  "size" : "2107",
-  "icons": {
-    "128": "/images/app_icon_128.png",
-    "60": "/images/app_icon_60.png"
-  },
-  "description": "ActivityTracker for Firefox OS",
-  "launch_path": "app.html",
-  "orientation": ["portrait"],
-  "developer": {
+    "name": "ActivityTracker",
+    "package_path" : "http://my-server.com/my-app-directory/package.zip",
+    "version": "1.0",
+    "developer": {
+        "name": "A. Developer",
+        "url": "http://my-server.com"
+    }
+    "developer": {
     "name": "Nicolò Rossi",
     "url": "http://www.redsnic.altervista.org"
   },
-  "default_locale": "it"
 }
